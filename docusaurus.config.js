@@ -16,12 +16,12 @@ const config = {
   url: 'https://intersectMBO.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/working-groups-info/',
+  baseUrl: '/workgroup-info/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'intersectMBO', // Usually your GitHub org/user name.
-  projectName: 'working-groups-info', // Usually your repo name.
+  projectName: 'workgroup-info', // Usually your repo name.
   trailingSlash: false,
 
   onBrokenLinks: 'warn',
