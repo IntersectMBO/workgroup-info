@@ -1,0 +1,29 @@
+{
+  "id": "inventory/plutus/spending",
+  "title": "Spending user stories",
+  "description": "| User Story Id | Title | User Story | Acceptance Criteria |",
+  "source": "@site/docs/inventory/plutus/10-spending.md",
+  "sourceDirName": "inventory/plutus",
+  "slug": "/spending",
+  "permalink": "/working-groups-info/spending",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_label": "Spending user stories",
+    "title": "Spending user stories",
+    "sidebar_position": 10,
+    "slug": "/spending"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PlutusV3 user stories",
+    "permalink": "/working-groups-info/plutus-v3"
+  },
+  "next": {
+    "title": "Minting user stories",
+    "permalink": "/working-groups-info/minting"
+  }
+}

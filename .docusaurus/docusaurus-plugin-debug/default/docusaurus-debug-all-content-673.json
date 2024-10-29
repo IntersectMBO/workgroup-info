@@ -1,0 +1,182 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/working-groups-info/",
+          "tagsPath": "/working-groups-info/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/home/carlos/github/working-groups-info/sidebars.ts",
+          "contentPath": "/home/carlos/github/working-groups-info/docs",
+          "contentPathLocalized": "/home/carlos/github/working-groups-info/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "id": "API-CLI/20240904",
+              "title": "",
+              "description": "CLI/API working group meeting #1",
+              "source": "@site/docs/API-CLI/20240904.mdx",
+              "sourceDirName": "API-CLI",
+              "slug": "/04092024",
+              "permalink": "/working-groups-info/04092024",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_label": "04-09-2024",
+                "sidebar_position": 1,
+                "slug": "/04092024",
+                "title": ""
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "18-09-2024",
+                "permalink": "/working-groups-info/18092024"
+              }
+            },
+            {
+              "id": "API-CLI/20240918",
+              "title": "",
+              "description": "CLI/API working group meeting #2",
+              "source": "@site/docs/API-CLI/20240918.mdx",
+              "sourceDirName": "API-CLI",
+              "slug": "/18092024",
+              "permalink": "/working-groups-info/18092024",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_label": "18-09-2024",
+                "sidebar_position": 2,
+                "slug": "/18092024",
+                "title": ""
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "04-09-2024",
+                "permalink": "/working-groups-info/04092024"
+              },
+              "next": {
+                "title": "02-10-2024",
+                "permalink": "/working-groups-info/02102024"
+              }
+            },
+            {
+              "id": "API-CLI/20241002",
+              "title": "",
+              "description": "CLI/API working group meeting #3",
+              "source": "@site/docs/API-CLI/20241002.mdx",
+              "sourceDirName": "API-CLI",
+              "slug": "/02102024",
+              "permalink": "/working-groups-info/02102024",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_label": "02-10-2024",
+                "sidebar_position": 3,
+                "slug": "/02102024",
+                "title": ""
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "18-09-2024",
+                "permalink": "/working-groups-info/18092024"
+              },
+              "next": {
+                "title": "16-10-2024",
+                "permalink": "/working-groups-info/16102024"
+              }
+            },
+            {
+              "id": "API-CLI/20241016",
+              "title": "",
+              "description": "CLI/API working group meeting #4",
+              "source": "@site/docs/API-CLI/20241016.mdx",
+              "sourceDirName": "API-CLI",
+              "slug": "/16102024",
+              "permalink": "/working-groups-info/16102024",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_label": "16-10-2024",
+                "sidebar_position": 4,
+                "slug": "/16102024",
+                "title": ""
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "02-10-2024",
+                "permalink": "/working-groups-info/02102024"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "category",
+                "label": "API-CLI",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "API-CLI/20240904",
+                    "label": "04-09-2024"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "API-CLI/20240918",
+                    "label": "18-09-2024"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "API-CLI/20241002",
+                    "label": "02-10-2024"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "API-CLI/20241016",
+                    "label": "16-10-2024"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "mdx",
+        "permalink": "/working-groups-info/",
+        "source": "@site/src/pages/index.mdx",
+        "description": "Meetings summary:",
+        "frontMatter": {},
+        "unlisted": false
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

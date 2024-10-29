@@ -1,0 +1,27 @@
+---
+sidebar_label: 18-09-2024
+sidebar_position: 2
+slug: /18092024
+title: ""
+---
+## CLI/API working group meeting #2
+**Date: 18/09/2024**  
+**Problem statements/questions/requests:**
+
+- Validating metadata for gov actions.
+  - Pablo’s demo. Validate metadata hashes when creating acitons.	
+  - Action items:  
+    - Limit the url to httpS i.e. no http cc:  Pablo Lamela  
+- Discussion about CIP105 vs CIP129
+  - Action items:
+    - CLI to use CIP-105 for DRep IDs
+- Martin Lang pointed out the lack of documentation about CLI outputs. 
+  - Action items:
+    - Martin Lang to create an issue: https://github.com/IntersectMBO/cardano-cli/issues/901
+    - Can we make it something like rest api documentation? 
+- Have a check for governance action deposits
+  - Action items:
+    - CLI to implement a check on transaction submit so that it fails when a transaction containing a stake-address deregistration certificate  
+    attempts to deregister an address that is associated with an active governance action 
+    i.e. Treasury Withdrawal destination/ deposit-return on any type.  https://github.com/IntersectMBO/cardano-cli/issues/900
+

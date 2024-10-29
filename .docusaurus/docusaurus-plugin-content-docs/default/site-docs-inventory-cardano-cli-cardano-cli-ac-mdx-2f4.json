@@ -1,0 +1,29 @@
+{
+  "id": "inventory/cardano-cli/cardano-cli-ac",
+  "title": "Cardano-CLI acceptance criteria",
+  "description": "AC-CLI.001 Obtain constitution hash for verification (HOLDER) {#AC-CLI.001}",
+  "source": "@site/docs/inventory/cardano-cli/cardano-cli-ac.mdx",
+  "sourceDirName": "inventory/cardano-cli",
+  "slug": "/cli-acceptance",
+  "permalink": "/working-groups-info/cli-acceptance",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "Cardano-CLI acceptance criteria",
+    "title": "Cardano-CLI acceptance criteria",
+    "sidebar_position": 2,
+    "slug": "/cli-acceptance"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Cardano-cli user stories",
+    "permalink": "/working-groups-info/cli-stories"
+  },
+  "next": {
+    "title": "GovTool user stories",
+    "permalink": "/working-groups-info/voltaire"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "category",
+        "label": "API-CLI",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "04-09-2024",
+            "href": "/working-groups-info/04092024",
+            "docId": "API-CLI/20240904",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "18-09-2024",
+            "href": "/working-groups-info/18092024",
+            "docId": "API-CLI/20240918",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "02-10-2024",
+            "href": "/working-groups-info/02102024",
+            "docId": "API-CLI/20241002",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "16-10-2024",
+            "href": "/working-groups-info/16102024",
+            "docId": "API-CLI/20241016",
+            "unlisted": false
+          }
+        ]
+      }
+    ]
+  },
+  "docs": {
+    "API-CLI/20240904": {
+      "id": "API-CLI/20240904",
+      "title": "",
+      "description": "CLI/API working group meeting #1",
+      "sidebar": "tutorialSidebar"
+    },
+    "API-CLI/20240918": {
+      "id": "API-CLI/20240918",
+      "title": "",
+      "description": "CLI/API working group meeting #2",
+      "sidebar": "tutorialSidebar"
+    },
+    "API-CLI/20241002": {
+      "id": "API-CLI/20241002",
+      "title": "",
+      "description": "CLI/API working group meeting #3",
+      "sidebar": "tutorialSidebar"
+    },
+    "API-CLI/20241016": {
+      "id": "API-CLI/20241016",
+      "title": "",
+      "description": "CLI/API working group meeting #4",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

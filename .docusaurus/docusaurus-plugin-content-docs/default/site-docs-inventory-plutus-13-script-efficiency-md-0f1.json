@@ -1,0 +1,29 @@
+{
+  "id": "inventory/plutus/script-efficiency",
+  "title": "Script Efficiency user stories",
+  "description": "| User Story Id | Title | User Story | Acceptance Criteria |",
+  "source": "@site/docs/inventory/plutus/13-script-efficiency.md",
+  "sourceDirName": "inventory/plutus",
+  "slug": "/script-efficiency",
+  "permalink": "/working-groups-info/script-efficiency",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "sidebar_label": "Script Efficiency user stories",
+    "title": "Script Efficiency user stories",
+    "sidebar_position": 13,
+    "slug": "/script-efficiency"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Reference Input user stories",
+    "permalink": "/working-groups-info/reference-input"
+  },
+  "next": {
+    "title": "Contribution Guidelines",
+    "permalink": "/working-groups-info/contribution_guidelines"
+  }
+}

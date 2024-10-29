@@ -1,0 +1,29 @@
+{
+  "id": "inventory/plutus/reference-input",
+  "title": "Reference Input user stories",
+  "description": "| User Story Id | Title | User Story | Acceptance Criteria |",
+  "source": "@site/docs/inventory/plutus/12-reference-input.md",
+  "sourceDirName": "inventory/plutus",
+  "slug": "/reference-input",
+  "permalink": "/working-groups-info/reference-input",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_label": "Reference Input user stories",
+    "title": "Reference Input user stories",
+    "sidebar_position": 12,
+    "slug": "/reference-input"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Minting user stories",
+    "permalink": "/working-groups-info/minting"
+  },
+  "next": {
+    "title": "Script Efficiency user stories",
+    "permalink": "/working-groups-info/script-efficiency"
+  }
+}

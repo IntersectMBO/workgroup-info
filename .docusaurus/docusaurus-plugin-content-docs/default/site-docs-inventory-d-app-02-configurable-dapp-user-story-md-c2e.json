@@ -1,0 +1,29 @@
+{
+  "id": "inventory/dApp/configurable-dapp-user-story",
+  "title": "Configurable Marketplace DApp User Stories",
+  "description": "Personas",
+  "source": "@site/docs/inventory/dApp/02-configurable-dapp-user-story.md",
+  "sourceDirName": "inventory/dApp",
+  "slug": "/dapp/multi",
+  "permalink": "/working-groups-info/dapp/multi",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Multi Script DApp stories",
+    "title": "Configurable Marketplace DApp User Stories",
+    "sidebar_position": 1,
+    "slug": "/dapp/multi"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Single Script DApp stories",
+    "permalink": "/working-groups-info/dapp/simple"
+  },
+  "next": {
+    "title": "Smart Contracts user stories",
+    "permalink": "/working-groups-info/smart-contracts"
+  }
+}

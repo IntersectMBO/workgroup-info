@@ -1,0 +1,29 @@
+{
+  "id": "inventory/staking",
+  "title": "Staking user stories",
+  "description": "| User Story Id | Title | User Story | Acceptance Criteria |",
+  "source": "@site/docs/inventory/09-staking.md",
+  "sourceDirName": "inventory",
+  "slug": "/staking",
+  "permalink": "/working-groups-info/staking",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_label": "Staking user stories",
+    "title": "Staking user stories",
+    "sidebar_position": 9,
+    "slug": "/staking"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Governance Guardrails",
+    "permalink": "/working-groups-info/governance-guardrails"
+  },
+  "next": {
+    "title": "PlutusV3 user stories",
+    "permalink": "/working-groups-info/plutus-v3"
+  }
+}

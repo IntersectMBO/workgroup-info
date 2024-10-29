@@ -1,0 +1,29 @@
+{
+  "id": "inventory/cardano-wallet copy",
+  "title": "Cardano-wallet user stories",
+  "description": "Personas",
+  "source": "@site/docs/inventory/05-cardano-wallet copy.md",
+  "sourceDirName": "inventory",
+  "slug": "/cardano-wallet",
+  "permalink": "/working-groups-info/cardano-wallet",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_label": "Cardano-wallet user stories",
+    "title": "Cardano-wallet user stories",
+    "sidebar_position": 5,
+    "slug": "/cardano-wallet"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Smart Contracts user stories",
+    "permalink": "/working-groups-info/smart-contracts"
+  },
+  "next": {
+    "title": "Partner Chains user stories",
+    "permalink": "/working-groups-info/partner-chains"
+  }
+}

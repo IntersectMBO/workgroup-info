@@ -1,0 +1,18 @@
+{
+  "id": "meeting-notes",
+  "title": "API-CLI Meeting notes",
+  "description": "Cardano CLI/API working group meeting #1",
+  "source": "@site/docs/meeting-notes.mdx",
+  "sourceDirName": ".",
+  "slug": "/meeting-notes",
+  "permalink": "/working-groups-info/meeting-notes",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "API-CLI Meeting notes",
+    "slug": "/meeting-notes"
+  },
+  "sidebar": "tutorialSidebar"
+}

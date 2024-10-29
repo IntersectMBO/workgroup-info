@@ -1,0 +1,29 @@
+{
+  "id": "inventory/partner-chains",
+  "title": "Partner Chains user stories",
+  "description": "User Story ID: CH.SID1",
+  "source": "@site/docs/inventory/06-partner-chains.md",
+  "sourceDirName": "inventory",
+  "slug": "/partner-chains",
+  "permalink": "/working-groups-info/partner-chains",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_label": "Partner Chains user stories",
+    "title": "Partner Chains user stories",
+    "sidebar_position": 6,
+    "slug": "/partner-chains"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Cardano-wallet user stories",
+    "permalink": "/working-groups-info/cardano-wallet"
+  },
+  "next": {
+    "title": "Governance Guardrails",
+    "permalink": "/working-groups-info/governance-guardrails"
+  }
+}

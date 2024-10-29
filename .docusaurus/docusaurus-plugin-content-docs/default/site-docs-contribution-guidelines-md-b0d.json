@@ -1,0 +1,18 @@
+{
+  "id": "contribution_guidelines",
+  "title": "Contribution Guidelines",
+  "description": "We encourage contributions from the community to improve and expand the coverage of user stories and test scenarios. If you'd like to contribute, please follow these guidelines:",
+  "source": "@site/docs/contribution_guidelines.md",
+  "sourceDirName": ".",
+  "slug": "/contribution_guidelines",
+  "permalink": "/working-groups-info/contribution_guidelines",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar"
+}

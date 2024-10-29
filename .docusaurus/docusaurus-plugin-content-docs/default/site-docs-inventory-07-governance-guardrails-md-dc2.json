@@ -1,0 +1,29 @@
+{
+  "id": "inventory/governance-guardrails",
+  "title": "Governance Guardrails",
+  "description": "Governance guardrails default constitution link:",
+  "source": "@site/docs/inventory/07-governance-guardrails.md",
+  "sourceDirName": "inventory",
+  "slug": "/governance-guardrails",
+  "permalink": "/working-groups-info/governance-guardrails",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_label": "Governance Guardrails",
+    "title": "Governance Guardrails",
+    "sidebar_position": 6,
+    "slug": "/governance-guardrails"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Partner Chains user stories",
+    "permalink": "/working-groups-info/partner-chains"
+  },
+  "next": {
+    "title": "Staking user stories",
+    "permalink": "/working-groups-info/staking"
+  }
+}

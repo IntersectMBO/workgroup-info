@@ -1,0 +1,25 @@
+{
+  "id": "API-CLI/20240904",
+  "title": "",
+  "description": "CLI/API working group meeting #1",
+  "source": "@site/docs/API-CLI/20240904.mdx",
+  "sourceDirName": "API-CLI",
+  "slug": "/04092024",
+  "permalink": "/working-groups-info/04092024",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "04-09-2024",
+    "sidebar_position": 1,
+    "slug": "/04092024",
+    "title": ""
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "18-09-2024",
+    "permalink": "/working-groups-info/18092024"
+  }
+}

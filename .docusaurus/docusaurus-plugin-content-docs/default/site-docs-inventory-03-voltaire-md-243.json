@@ -1,0 +1,29 @@
+{
+  "id": "inventory/voltaire",
+  "title": "GovTool user stories",
+  "description": "Personas",
+  "source": "@site/docs/inventory/03-voltaire.md",
+  "sourceDirName": "inventory",
+  "slug": "/voltaire",
+  "permalink": "/working-groups-info/voltaire",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "GovTool user stories",
+    "title": "GovTool user stories",
+    "sidebar_position": 3,
+    "slug": "/voltaire"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Cardano-CLI acceptance criteria",
+    "permalink": "/working-groups-info/cli-acceptance"
+  },
+  "next": {
+    "title": "Single Script DApp stories",
+    "permalink": "/working-groups-info/dapp/simple"
+  }
+}

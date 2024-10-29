@@ -1,0 +1,29 @@
+{
+  "id": "inventory/dApp/simple-dapp-user-story",
+  "title": "Simple Marketplace DApp User Stories",
+  "description": "Personas",
+  "source": "@site/docs/inventory/dApp/01-simple-dapp-user-story.md",
+  "sourceDirName": "inventory/dApp",
+  "slug": "/dapp/simple",
+  "permalink": "/working-groups-info/dapp/simple",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Single Script DApp stories",
+    "title": "Simple Marketplace DApp User Stories",
+    "sidebar_position": 1,
+    "slug": "/dapp/simple"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GovTool user stories",
+    "permalink": "/working-groups-info/voltaire"
+  },
+  "next": {
+    "title": "Multi Script DApp stories",
+    "permalink": "/working-groups-info/dapp/multi"
+  }
+}
