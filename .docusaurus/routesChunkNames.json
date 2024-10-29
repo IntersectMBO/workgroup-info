@@ -1,58 +1,58 @@
 {
-  "/working-groups-info/__docusaurus/debug-bbe": {
+  "/working-groups-info/__docusaurus/debug-3fa": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---working-groups-info-docusaurus-debugbd-0-d69"
+      "plugin": "plugin---working-groups-info-docusaurus-debug-32-f-70e"
     }
   },
-  "/working-groups-info/__docusaurus/debug/config-36a": {
+  "/working-groups-info/__docusaurus/debug/config-892": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---working-groups-info-docusaurus-debugbd-0-d69"
+      "plugin": "plugin---working-groups-info-docusaurus-debug-32-f-70e"
     }
   },
-  "/working-groups-info/__docusaurus/debug/content-0a3": {
+  "/working-groups-info/__docusaurus/debug/content-bfb": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---working-groups-info-docusaurus-debugbd-0-d69"
+      "plugin": "plugin---working-groups-info-docusaurus-debug-32-f-70e"
     },
     "allContent": "allContent---working-groups-info-docusaurus-debug-content-246-bf3"
   },
-  "/working-groups-info/__docusaurus/debug/globalData-a40": {
+  "/working-groups-info/__docusaurus/debug/globalData-c79": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---working-groups-info-docusaurus-debugbd-0-d69"
+      "plugin": "plugin---working-groups-info-docusaurus-debug-32-f-70e"
     }
   },
-  "/working-groups-info/__docusaurus/debug/metadata-605": {
+  "/working-groups-info/__docusaurus/debug/metadata-ce7": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---working-groups-info-docusaurus-debugbd-0-d69"
+      "plugin": "plugin---working-groups-info-docusaurus-debug-32-f-70e"
     }
   },
-  "/working-groups-info/__docusaurus/debug/registry-0a6": {
+  "/working-groups-info/__docusaurus/debug/registry-473": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---working-groups-info-docusaurus-debugbd-0-d69"
+      "plugin": "plugin---working-groups-info-docusaurus-debug-32-f-70e"
     }
   },
-  "/working-groups-info/__docusaurus/debug/routes-810": {
+  "/working-groups-info/__docusaurus/debug/routes-a17": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---working-groups-info-docusaurus-debugbd-0-d69"
+      "plugin": "plugin---working-groups-info-docusaurus-debug-32-f-70e"
     }
   },
-  "/working-groups-info/-e1b": {
+  "/working-groups-info/-837": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---working-groups-info-6-a-0-832"
+      "plugin": "plugin---working-groups-info-a-09-754"
     },
     "content": "content---working-groups-info-e-7-c-acb"
   },
-  "/working-groups-info/-6b7": {
+  "/working-groups-info/-4d3": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "plugin---working-groups-info-2-b-8-485"
+      "plugin": "plugin---working-groups-info-6-c-3-00e"
     }
   },
   "/working-groups-info/-206": {

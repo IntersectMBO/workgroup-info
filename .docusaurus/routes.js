@@ -4,47 +4,47 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/working-groups-info/__docusaurus/debug',
-    component: ComponentCreator('/working-groups-info/__docusaurus/debug', 'bbe'),
+    component: ComponentCreator('/working-groups-info/__docusaurus/debug', '3fa'),
     exact: true
   },
   {
     path: '/working-groups-info/__docusaurus/debug/config',
-    component: ComponentCreator('/working-groups-info/__docusaurus/debug/config', '36a'),
+    component: ComponentCreator('/working-groups-info/__docusaurus/debug/config', '892'),
     exact: true
   },
   {
     path: '/working-groups-info/__docusaurus/debug/content',
-    component: ComponentCreator('/working-groups-info/__docusaurus/debug/content', '0a3'),
+    component: ComponentCreator('/working-groups-info/__docusaurus/debug/content', 'bfb'),
     exact: true
   },
   {
     path: '/working-groups-info/__docusaurus/debug/globalData',
-    component: ComponentCreator('/working-groups-info/__docusaurus/debug/globalData', 'a40'),
+    component: ComponentCreator('/working-groups-info/__docusaurus/debug/globalData', 'c79'),
     exact: true
   },
   {
     path: '/working-groups-info/__docusaurus/debug/metadata',
-    component: ComponentCreator('/working-groups-info/__docusaurus/debug/metadata', '605'),
+    component: ComponentCreator('/working-groups-info/__docusaurus/debug/metadata', 'ce7'),
     exact: true
   },
   {
     path: '/working-groups-info/__docusaurus/debug/registry',
-    component: ComponentCreator('/working-groups-info/__docusaurus/debug/registry', '0a6'),
+    component: ComponentCreator('/working-groups-info/__docusaurus/debug/registry', '473'),
     exact: true
   },
   {
     path: '/working-groups-info/__docusaurus/debug/routes',
-    component: ComponentCreator('/working-groups-info/__docusaurus/debug/routes', '810'),
+    component: ComponentCreator('/working-groups-info/__docusaurus/debug/routes', 'a17'),
     exact: true
   },
   {
     path: '/working-groups-info/',
-    component: ComponentCreator('/working-groups-info/', 'e1b'),
+    component: ComponentCreator('/working-groups-info/', '837'),
     exact: true
   },
   {
     path: '/working-groups-info/',
-    component: ComponentCreator('/working-groups-info/', '6b7'),
+    component: ComponentCreator('/working-groups-info/', '4d3'),
     routes: [
       {
         path: '/working-groups-info/',

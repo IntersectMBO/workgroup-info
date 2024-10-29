@@ -13,9 +13,9 @@
           "tagsPath": "/working-groups-info/tags",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/home/carlos/github/working-groups-info/sidebars.ts",
-          "contentPath": "/home/carlos/github/working-groups-info/docs",
-          "contentPathLocalized": "/home/carlos/github/working-groups-info/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/home/carlos/github/workgroup-info/sidebars.ts",
+          "contentPath": "/home/carlos/github/workgroup-info/docs",
+          "contentPathLocalized": "/home/carlos/github/workgroup-info/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "id": "API-CLI/20240904",
