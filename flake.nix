@@ -24,7 +24,7 @@
 
         # Default shell.
         devShells.default = pkgs.mkShell {
-          name = "cardano-test-plans";
+          name = "workgroup-info";
           inputsFrom = [
             config.treefmt.build.devShell
           ];
