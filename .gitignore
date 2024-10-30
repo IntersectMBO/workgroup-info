@@ -1,1 +1,5 @@
+# .gitignore
+
+# Ignore the build directory
+build/
 node_modules

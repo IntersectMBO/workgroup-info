@@ -128,18 +128,18 @@
     "245": {
       "js": [
         {
-          "file": "assets/js/3dccc871.2e1ff907.js",
-          "hash": "a4d996d2eec4e254",
-          "publicPath": "/workgroup-info/assets/js/3dccc871.2e1ff907.js"
+          "file": "assets/js/3dccc871.1437f8e2.js",
+          "hash": "abc2ea60ed758067",
+          "publicPath": "/workgroup-info/assets/js/3dccc871.1437f8e2.js"
         }
       ]
     },
     "354": {
       "js": [
         {
-          "file": "assets/js/runtime~main.6cef869f.js",
-          "hash": "71425ea309719b78",
-          "publicPath": "/workgroup-info/assets/js/runtime~main.6cef869f.js"
+          "file": "assets/js/runtime~main.b26df2e6.js",
+          "hash": "eb3c1465e82c0c4d",
+          "publicPath": "/workgroup-info/assets/js/runtime~main.b26df2e6.js"
         }
       ]
     },
