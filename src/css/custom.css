@@ -13,7 +13,7 @@
   --ifm-color-primary-light: #4a7f6b;   /* Light green */
   --ifm-color-primary-lighter: #559279; /* Lighter green */
   --ifm-color-primary-lightest: #64a78c; /* Lightest green */
-  --ifm-code-font-size: 80%;
+  --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
@@ -37,4 +37,16 @@
 .table-container th,
 .table-container td {
   width: 50%; /* Adjust this value to set the width of individual columns */
+}
+
+/* Apply smaller font size specifically for the index page */
+.index-page {
+  font-size: 14px; /* Adjust to your desired font size */
+}
+
+/* Additional rules to ensure tables also have smaller text */
+.index-page table,
+.index-page td,
+.index-page th {
+  font-size: 14px; /* Adjust as needed */
 }
