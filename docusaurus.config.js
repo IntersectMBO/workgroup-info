@@ -1,5 +1,5 @@
 // @ts-check
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -100,6 +100,10 @@ const config = {
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.tomorrow,
+      },
+      tableOfContents: {
+        minHeadingLevel: 2,
+        maxHeadingLevel: 2,
       },
     }),
 };
