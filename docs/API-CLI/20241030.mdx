@@ -1,0 +1,33 @@
+---
+sidebar_label: 30-10-2024
+sidebar_position: 4
+slug: /30102024
+title: ""
+---
+## CLI/API working group meeting #5
+**Date: 30/10/2024**  
+**Topics/Problem statements/questions/requests:**
+
+- Announcing the website where users can find the outcomes of the working group meetings:
+  - https://intersectmbo.github.io/workgroup-info/ 
+  - **Action item**: Add a column for outcomes or decisions taken.
+- Command line reestructuring 
+  - To enhance the user experience, the `query`, `build`, and `certificate` creation commands could automatically check for a live node in the 
+  background. If a node is detected, the CLI would fetch relevant information, such as the current `era` or required `protocol parameters`, to assist the 
+  user. This approach would simplify the process for less experienced users while still allowing advanced users to manually specify details 
+  when they prefer full control.
+  - Continue with the refactoring work as planned. 
+  - **Action items**: 
+    - Architecture Decision Record for the new structure
+    - Architecture Decision Record for the deprecation of commands. 
+    - Write an example of the **query the era behind the scenes approach** for a query command. We need to figure out whiich oine is a good example.  
+    - Implement `stake-address registration-certificate` with this approach.
+    - In both cases we want user feedback before merging to `main`  
+- Brief discussion about Txid output -> https://github.com/IntersectMBO/cardano-cli/pull/925 what people think?
+  - Majority of the atendees think it is useful. Altho we should reimplement so that the output is in json not plain text.
+  - **Action item**: reimplement so that the output is json not just plain text. 
+
+
+
+
+

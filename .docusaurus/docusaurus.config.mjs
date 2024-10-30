@@ -218,7 +218,7 @@ export default {
     "metadata": [],
     "tableOfContents": {
       "minHeadingLevel": 2,
-      "maxHeadingLevel": 3
+      "maxHeadingLevel": 2
     }
   },
   "baseUrlIssueBanner": true,
