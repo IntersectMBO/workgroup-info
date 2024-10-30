@@ -4,7 +4,7 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "IntersectMBO Working groups",
+  "title": "IntersectMBO Working Groups",
   "tagline": "",
   "favicon": "/img/intersect.ico",
   "url": "https://intersectMBO.github.io",
@@ -27,10 +27,13 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "./sidebars.ts",
+          "sidebarPath": "/home/carlos/github/workgroup-info/sidebars.ts",
           "routeBasePath": "/"
         },
-        "blog": false
+        "blog": false,
+        "theme": {
+          "customCss": "/home/carlos/github/workgroup-info/src/css/custom.css"
+        }
       }
     ]
   ],
@@ -69,7 +72,7 @@ export default {
           ]
         },
         {
-          "title": "Github",
+          "title": "GitHub",
           "items": [
             {
               "label": "GitHub IntersectMBO",

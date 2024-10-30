@@ -38,3 +38,15 @@
 .table-container td {
   width: 50%; /* Adjust this value to set the width of individual columns */
 }
+
+/* Apply smaller font size specifically for the index page */
+.index-page {
+  font-size: 14px; /* Adjust to your desired font size */
+}
+
+/* Additional rules to ensure tables also have smaller text */
+.index-page table,
+.index-page td,
+.index-page th {
+  font-size: 14px; /* Adjust as needed */
+}

@@ -1,33 +1,38 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/working-groups-info/",
+      "path": "/workgroup-info/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/working-groups-info/",
+          "path": "/workgroup-info/",
           "mainDocId": "API-CLI/20240904",
           "docs": [
             {
               "id": "API-CLI/20240904",
-              "path": "/working-groups-info/04092024",
+              "path": "/workgroup-info/04092024",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "API-CLI/20240918",
-              "path": "/working-groups-info/18092024",
+              "path": "/workgroup-info/18092024",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "API-CLI/20241002",
-              "path": "/working-groups-info/02102024",
+              "path": "/workgroup-info/02102024",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "API-CLI/20241016",
-              "path": "/working-groups-info/16102024",
+              "path": "/workgroup-info/16102024",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "API-CLI/20241030",
+              "path": "/workgroup-info/30102024",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -35,7 +40,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/working-groups-info/04092024",
+                "path": "/workgroup-info/04092024",
                 "label": "04-09-2024"
               }
             }

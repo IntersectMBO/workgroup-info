@@ -5,7 +5,7 @@
   "source": "@site/docs/API-CLI/20240918.mdx",
   "sourceDirName": "API-CLI",
   "slug": "/18092024",
-  "permalink": "/working-groups-info/18092024",
+  "permalink": "/workgroup-info/18092024",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "04-09-2024",
-    "permalink": "/working-groups-info/04092024"
+    "permalink": "/workgroup-info/04092024"
   },
   "next": {
     "title": "02-10-2024",
-    "permalink": "/working-groups-info/02102024"
+    "permalink": "/workgroup-info/02102024"
   }
 }
