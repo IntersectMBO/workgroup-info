@@ -3,3 +3,6 @@
 # Ignore the build directory
 build/
 node_modules
+.docusaurus/
+.docusaurus/docusaurus.config.mjs
+.docusaurus/client-manifest.json
