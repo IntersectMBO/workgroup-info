@@ -206,6 +206,10 @@ export default {
         }
       ]
     },
+    "tableOfContents": {
+      "minHeadingLevel": 2,
+      "maxHeadingLevel": 2
+    },
     "colorMode": {
       "defaultMode": "light",
       "disableSwitch": false,
@@ -218,11 +222,7 @@ export default {
         "autoCollapseCategories": false
       }
     },
-    "metadata": [],
-    "tableOfContents": {
-      "minHeadingLevel": 2,
-      "maxHeadingLevel": 3
-    }
+    "metadata": []
   },
   "baseUrlIssueBanner": true,
   "onBrokenAnchors": "warn",
