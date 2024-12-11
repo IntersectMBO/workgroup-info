@@ -34,6 +34,11 @@
               "id": "API-CLI/20241030",
               "path": "/workgroup-info/30102024",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "API-CLI/20241127",
+              "path": "/workgroup-info/27112024",
+              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],
