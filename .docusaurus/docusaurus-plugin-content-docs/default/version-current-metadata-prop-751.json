@@ -49,6 +49,13 @@
             "href": "/workgroup-info/30102024",
             "docId": "API-CLI/20241030",
             "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "27-11-2024",
+            "href": "/workgroup-info/27112024",
+            "docId": "API-CLI/20241127",
+            "unlisted": false
           }
         ]
       }
@@ -83,6 +90,12 @@
       "id": "API-CLI/20241030",
       "title": "",
       "description": "CLI/API working group meeting #5",
+      "sidebar": "tutorialSidebar"
+    },
+    "API-CLI/20241127": {
+      "id": "API-CLI/20241127",
+      "title": "",
+      "description": "CLI/API working group meeting #7",
       "sidebar": "tutorialSidebar"
     }
   }
