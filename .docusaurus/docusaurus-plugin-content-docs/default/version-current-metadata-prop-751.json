@@ -56,6 +56,20 @@
             "href": "/workgroup-info/27112024",
             "docId": "API-CLI/20241127",
             "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "11-12-2024",
+            "href": "/workgroup-info/11122024",
+            "docId": "API-CLI/20241211",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "01-15-2025",
+            "href": "/workgroup-info/01152025",
+            "docId": "API-CLI/20250115",
+            "unlisted": false
           }
         ]
       }
@@ -96,6 +110,18 @@
       "id": "API-CLI/20241127",
       "title": "",
       "description": "CLI/API working group meeting #7",
+      "sidebar": "tutorialSidebar"
+    },
+    "API-CLI/20241211": {
+      "id": "API-CLI/20241211",
+      "title": "",
+      "description": "CLI/API working group meeting #8",
+      "sidebar": "tutorialSidebar"
+    },
+    "API-CLI/20250115": {
+      "id": "API-CLI/20250115",
+      "title": "",
+      "description": "CLI/API working group meeting #8",
       "sidebar": "tutorialSidebar"
     }
   }

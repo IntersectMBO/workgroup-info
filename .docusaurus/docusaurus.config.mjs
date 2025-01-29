@@ -89,7 +89,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © IntersectMBO 2024"
+      "copyright": "Copyright © IntersectMBO 2025"
     },
     "prism": {
       "theme": {

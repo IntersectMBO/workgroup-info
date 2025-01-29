@@ -1,0 +1,30 @@
+---
+sidebar_label: 11-12-2024
+sidebar_position: 7
+slug: /11122024
+title: ""
+---
+## CLI/API working group meeting #8
+**Date: 11/12/2024**  
+**Topics/Problem statements/questions/requests:**
+
+- Discussed query spo-stake-distribution. Martin Lang confirmed behavior is as expected.
+  - The new query in ledger will be used on a later implementation. 
+- Discussed query stake-address-info, we will use queryProposals to show deposits on gov actions when using stake-address-info. 
+- Problems that developers raised when testing dapps in cardano. 
+  - Leandro's introduciton. 
+  - Problems: 
+    - Developing against emulator, when replicating on a live testnet things break. (Reliability of emulators).
+    - Things usually break on "Transaction complete" (with lucid). 
+    - Emulators and testnets (real networks) may have different behavior and requirements. 
+  - Suggestions: 
+    - Using of cardano-testnet as a tool for dapp developers to use on their testing frameworks.
+  - Commitments: 
+    - Write documentation for cardano-testnets
+    - Integrate features described in https://github.com/IntersectMBO/cardano-node/issues/6080
+    - Release it and get feedback from developers.
+   
+
+
+
+

@@ -181,6 +181,64 @@
               "previous": {
                 "title": "30-10-2024",
                 "permalink": "/workgroup-info/30102024"
+              },
+              "next": {
+                "title": "11-12-2024",
+                "permalink": "/workgroup-info/11122024"
+              }
+            },
+            {
+              "id": "API-CLI/20241211",
+              "title": "",
+              "description": "CLI/API working group meeting #8",
+              "source": "@site/docs/API-CLI/20241211.mdx",
+              "sourceDirName": "API-CLI",
+              "slug": "/11122024",
+              "permalink": "/workgroup-info/11122024",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_label": "11-12-2024",
+                "sidebar_position": 7,
+                "slug": "/11122024",
+                "title": ""
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "27-11-2024",
+                "permalink": "/workgroup-info/27112024"
+              },
+              "next": {
+                "title": "01-15-2025",
+                "permalink": "/workgroup-info/01152025"
+              }
+            },
+            {
+              "id": "API-CLI/20250115",
+              "title": "",
+              "description": "CLI/API working group meeting #8",
+              "source": "@site/docs/API-CLI/20250115.mdx",
+              "sourceDirName": "API-CLI",
+              "slug": "/01152025",
+              "permalink": "/workgroup-info/01152025",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_label": "01-15-2025",
+                "sidebar_position": 8,
+                "slug": "/01152025",
+                "title": ""
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "11-12-2024",
+                "permalink": "/workgroup-info/11122024"
               }
             }
           ],
@@ -222,6 +280,16 @@
                     "type": "doc",
                     "id": "API-CLI/20241127",
                     "label": "27-11-2024"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "API-CLI/20241211",
+                    "label": "11-12-2024"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "API-CLI/20250115",
+                    "label": "01-15-2025"
                   }
                 ]
               }

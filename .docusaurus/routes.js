@@ -44,16 +44,22 @@ export default [
   },
   {
     path: '/workgroup-info/',
-    component: ComponentCreator('/workgroup-info/', 'a60'),
+    component: ComponentCreator('/workgroup-info/', 'bb0'),
     routes: [
       {
         path: '/workgroup-info/',
-        component: ComponentCreator('/workgroup-info/', 'efc'),
+        component: ComponentCreator('/workgroup-info/', '97d'),
         routes: [
           {
             path: '/workgroup-info/',
-            component: ComponentCreator('/workgroup-info/', 'e98'),
+            component: ComponentCreator('/workgroup-info/', '490'),
             routes: [
+              {
+                path: '/workgroup-info/01152025',
+                component: ComponentCreator('/workgroup-info/01152025', 'c4e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/workgroup-info/02102024',
                 component: ComponentCreator('/workgroup-info/02102024', 'd61'),
@@ -63,6 +69,12 @@ export default [
               {
                 path: '/workgroup-info/04092024',
                 component: ComponentCreator('/workgroup-info/04092024', '00f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/workgroup-info/11122024',
+                component: ComponentCreator('/workgroup-info/11122024', 'df7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
