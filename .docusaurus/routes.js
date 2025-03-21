@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/workgroup-info/',
-    component: ComponentCreator('/workgroup-info/', 'bb0'),
+    component: ComponentCreator('/workgroup-info/', 'a03'),
     routes: [
       {
         path: '/workgroup-info/',
-        component: ComponentCreator('/workgroup-info/', '97d'),
+        component: ComponentCreator('/workgroup-info/', '366'),
         routes: [
           {
             path: '/workgroup-info/',
-            component: ComponentCreator('/workgroup-info/', '490'),
+            component: ComponentCreator('/workgroup-info/', '459'),
             routes: [
               {
                 path: '/workgroup-info/01152025',
@@ -63,6 +63,18 @@ export default [
               {
                 path: '/workgroup-info/02102024',
                 component: ComponentCreator('/workgroup-info/02102024', 'd61'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/workgroup-info/02262025',
+                component: ComponentCreator('/workgroup-info/02262025', '977'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/workgroup-info/03122025',
+                component: ComponentCreator('/workgroup-info/03122025', 'ec2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
