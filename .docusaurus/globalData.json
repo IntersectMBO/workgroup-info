@@ -59,6 +59,11 @@
               "id": "API-CLI/20250312",
               "path": "/workgroup-info/03122025",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "API-CLI/20250521",
+              "path": "/workgroup-info/05212025",
+              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],

@@ -49,17 +49,17 @@
     },
     "content": "content---workgroup-info-e-7-c-c83"
   },
-  "/workgroup-info/-a03": {
+  "/workgroup-info/-a31": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---workgroup-info-6-c-3-15d"
     }
   },
-  "/workgroup-info/-366": {
+  "/workgroup-info/-5fe": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---workgroup-info-935-5f0"
   },
-  "/workgroup-info/-459": {
+  "/workgroup-info/-253": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/workgroup-info/01152025-c4e": {
@@ -81,6 +81,10 @@
   "/workgroup-info/04092024-00f": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---workgroup-info-040920247-e-0-554"
+  },
+  "/workgroup-info/05212025-e3c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---workgroup-info-05212025893-78b"
   },
   "/workgroup-info/11122024-df7": {
     "__comp": "__comp---theme-doc-item-178-a40",

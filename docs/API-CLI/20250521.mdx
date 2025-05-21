@@ -1,0 +1,49 @@
+---
+sidebar_label: 05-21-2025
+sidebar_position: 10
+slug: /05212025
+title: ""
+---
+## CLI/API Workgroup Meeting Summary
+**Date: 21/05/2025** 
+**Topics/Problem statements/questions/requests:**
+
+#### ⚙️ CLI Standardization
+
+- Recent changes in the CLI have focused on standardizing output formats. 
+- The output format is now prefixed with "output" (e.g., JSON, YAML). 
+- This standardization aims for consistency across the CLI. 
+- JSON is now the default output for query commands. 
+
+#### ✨ New CLI Features and Deprecations
+
+- CIP 129 support has been added for committee keys, DREPs, and governance actions. 
+- Extended pool operator key support is now included. 
+- Plutus offline cost calculation is available in the CLI. 
+- GHC 8.10.7 has been deprecated. 
+- This deprecation will require updating build documentation. 
+
+#### 🔄 API Updates and Experimental API
+
+- The API has received updates similar to the CLI, including CIP 129 support and the offline calculation command. 
+- General refactoring and removal of dead code have been performed on the API. 
+- A new experimental API is being introduced. 
+- The experimental API aims to simplify the API by focusing on the current mainnet era and the upcoming experimental era, which will reduce complexity and maintenance. 
+- A clear deprecation plan for the old API needs to be developed, and community input is sought for this process. 
+
+#### 🌐 gRPC Interface for Cardano Node
+
+- This interface will allow applications in various programming languages to interact with the Cardano node. 
+- There's an alignment with the UTXO RPC specification by TXPipe
+- The possibility of creating a CIP to standardize it is being considered. 
+- This initiative is believed to contribute to node diversity and improve `cardano-node` usability. 
+
+#### 🧩 Wasm Support for Cardano API
+
+- Work is ongoing to explore the creation of a JavaScript library based on the master module. 
+- Popular Cardano-related browser libraries are also being assessed. 
+- The Wasm effort is still in its early stages compared to the gRPC project, which has a clearer path due to defined specifications. 
+
+#### 🗓️ Next Steps
+
+Mateusz Gałażyn will start working on the gRPC interface for Cardano node this or next week, following the UTXO RPC specification. 

@@ -4,48 +4,47 @@ sidebar_position: 9
 slug: /03122025
 title: ""
 ---
-# CLI/API working group meeting summary 
+## CLI/API working group meeting summary 
 **Date: 12/03/2025**
 **Topics/Problem statements/questions/requests:**
 
-## 🔧 Hardware Wallets & Transaction Ordering
+#### 🔧 Hardware Wallets & Transaction Ordering
 - Hardware wallets require a specific ordering of transaction body fields; the current CLI does not enforce this.
 - A workaround using `cardano-hw-cli` (by Vacuum Labs) is available to transform transactions into the expected format.
 - This is not considered urgent due to the availability and ease of the workaround.
 - The existing issue will be relabeled as "hardware wallet support" for clarity.
 - Further investigation may be needed to ensure no other compatibility issues exist beyond field ordering.
 
-## 📦 Cardano-API Refactor & Modularization
+#### 📦 Cardano-API Refactor & Modularization
 - The script for witnessing API refactor is nearing completion.
 - This refactor is a prerequisite for enabling a modular structure in `cardano-api`.
 - Once complete, it will support more haddocks and better developer documentation.
 
-## 🌐 gRPC Exploration
+#### 🌐 gRPC Exploration
 - The team is evaluating whether to implement gRPC internally.
 - A community proposal funded via Catalyst is already working on this.
 - Current focus is on identifying real user needs rather than choosing a solution too early.
 - JSON-RPC + WebSocket is also being used in the ecosystem.
 
-## 🛠️ CLI Output Schema Specification
+#### 🛠️ CLI Output Schema Specification
 - Work on CLI output schemas is temporarily paused due to planning tasks.
 - It remains a priority and is actively being requested (e.g., by the Blueprints project).
 - Work will resume after the current planning cycle.
 
-## 🚀 Cardano-Testnet Tool
+#### 🚀 Cardano-Testnet Tool
 - A local Cardano testnet launcher tool is approaching its v1 release.
 - It allows users to spin up a testnet with default mainnet parameters (faster epochs/slots).
 - Aimed at DApp developers, educators, and testers.
 - Tool will be released with documentation and tutorials.
 - Feedback will guide ongoing development and maintenance.
 
-## 📅 Meeting Frequency Update
+#### 📅 Meeting Frequency Update
 - Meetings will shift from bi-weekly to monthly going forward.
 - This change is expected to bring:
   - More substance to each meeting.
   - Increased participation.
 - Calendars and invites will be updated accordingly.
 
-## 🧩 CIP129 Support
+#### 🧩 CIP129 Support
 - CIP-129 is currently in progress.
 - The team is improving its process for tracking and responding to CIPs.
-
